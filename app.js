@@ -1,0 +1,1 @@
+document.write ("Codice Practice on the console")
