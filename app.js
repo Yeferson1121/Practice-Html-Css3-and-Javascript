@@ -160,7 +160,11 @@ greeting ('Bengi');
 greeting ('Tanjiro');
 greeting ('Saitama');
 
-
+function add (n1, n2) {
+    console.log (n1 + n2);
+}
+add (3,4);
+add (19434,93434);
 
  
 
