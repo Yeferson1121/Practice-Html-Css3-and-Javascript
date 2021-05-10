@@ -1,6 +1,6 @@
 document.write ("Codice Practice on the console");
 
-//Types of data
+//Data type
 //Strings
 "First codice from practice"
 'Second codice from practice'
