@@ -102,6 +102,23 @@ if (Login == true) {
 else console.log ('Password wrong');
 
 
+// Conditional Flow
+
+let score = 20;
+
+if (score > 30) {
+    console.log ("You're getting better");
+}
+
+else if (score > 15) {
+    console.log ('You need to practice more');
+}
+
+else {
+    console.log ('You practice more housers');
+}
+
+
 
 
 
