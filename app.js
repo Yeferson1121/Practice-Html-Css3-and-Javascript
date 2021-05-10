@@ -143,7 +143,12 @@ let count = 0;
       count = count +1
  }
 
+ let names = ['ryan', 'joe', 'john', 'mario'];
  
+ for (let i = names.length -1; i >=0; i--) {
+     console.log (names [i]);
+     
+ }
 
 
 
