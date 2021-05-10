@@ -72,5 +72,14 @@ let Result = NumberOne < NumberTwo;
 
 console.log (Result);
 
+let password = "Skrillex777"
+let input = "there'snoleaguethisyear"
+
+let login =password == input;
+
+console.log (login);
+
+
+
 
 
