@@ -56,5 +56,12 @@ let result = numberOne + numberTwo;
 
 console.log (result);
 
+let Name = "Yeferson";
+let lastName = "Tapias";
+
+let completeName = Name + '' + lastName;
+
+console.log (completeName);
+
 
 
