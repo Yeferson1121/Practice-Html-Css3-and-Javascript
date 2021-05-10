@@ -119,6 +119,22 @@ else {
 }
 
 
+// Conditional - Switchs
+
+let TypeCard = 'XXX';
+
+switch (TypeCard) {
+    case 'Debid Card':
+        console.log ('This is a debid card');
+        break
+    case 'Credit Card':
+        console.log ('This is a credit card');
+        break
+    default:
+        console.log ('No card');        
+}
+
+
 
 
 
