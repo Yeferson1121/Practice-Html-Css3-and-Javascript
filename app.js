@@ -64,4 +64,13 @@ let completeName = Name + '' + lastName;
 console.log (completeName);
 
 
+// Comparation
+let NumberOne = 200;
+let NumberTwo = 700;
+
+let Result = NumberOne < NumberTwo;
+
+console.log (Result);
+
+
 
