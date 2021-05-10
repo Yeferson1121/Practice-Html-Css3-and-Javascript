@@ -79,6 +79,15 @@ let login =password == input;
 
 console.log (login);
 
+let Number_One = 300;
+let Number_Two = 966;
+
+let iguality = Number_One >! NumberTwo;
+
+console.log (iguality);
+
+
+
 
 
 
