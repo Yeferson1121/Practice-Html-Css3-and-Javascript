@@ -151,6 +151,20 @@ let count = 0;
  }
 
 
+ // Function
+
+ function greeting (person) {
+     console.log ('Hello' + person);
+ }
+greeting ('Bengi');
+greeting ('Tanjiro');
+greeting ('Saitama');
+
+
+
+ 
+
+
 
 
 
