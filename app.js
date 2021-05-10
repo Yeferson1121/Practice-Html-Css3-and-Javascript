@@ -1,1 +1,3 @@
-document.write ("Codice Practice on the console")
+document.write ("Codice Practice on the console");
+
+//Types of data
