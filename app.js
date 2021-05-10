@@ -14,3 +14,23 @@ document.write ("Codice Practice on the console");
 true
 false
 
+// Array
+['joe', 'ryan', 'scoot'];
+[1, 2, 3];
+[true, false, true, false];
+
+// Objects
+
+({
+    "username": 'ryan',
+    "score": 70.5,
+    "hours": 14,
+    "proffesional": true
+});
+
+({
+    "username": 'joe',
+    "score": 10.4,
+    "hours": 2,
+    "proffesional": false
+});
