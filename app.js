@@ -4,22 +4,26 @@ document.write ("Codice Practice on the console");
 
 
 // Strings
+
 "First codice from practice"
 'Second codice from practice'
 
 
 // Number 
+
 1000
 1.000
 -1.000
 
 
 // Boolean
+
 true
 false
 
 
 // Array
+
 ['joe', 'ryan', 'scoot'];
 [1, 2, 3];
 [true, false, true, false];
@@ -43,12 +47,14 @@ false
 
 
 // Variables
+
 var username = "ryan";
 let username = "jeff"
 const lastname = "carter"
 
 
 // Carriers - Operators
+
 let numberOne = 70;
 let numberTwo = 80;
 
@@ -65,6 +71,7 @@ console.log (completeName);
 
 
 // Comparation
+
 let NumberOne = 200;
 let NumberTwo = 700;
 
@@ -85,6 +92,14 @@ let Number_Two = 966;
 let iguality = Number_One >! NumberTwo;
 
 console.log (iguality);
+
+
+// Conditional
+
+if (Login == true) {
+    console.log ('Login correct');
+}
+else console.log ('Password wrong');
 
 
 
