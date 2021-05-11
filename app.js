@@ -169,14 +169,13 @@ add (19434,93434);
 // CONTINUATION
 
 /* VARIABLES 1.0 */
- // Prompt
-  var NickName = "Kizaru_11";
-   prompt ('Enter name');
 
- // Alert
-  var Failed = "Entry error";
-   alert (Failed);
- 
+ // Prompt with alert
+  var NickName = "Kizaru_11";
+   NickName = prompt ('Enter name');
+    alert (NickName);
+  
+
 
 
 
