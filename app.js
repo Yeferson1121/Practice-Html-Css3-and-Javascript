@@ -166,6 +166,10 @@ function add (n1, n2) {
 add (3,4);
 add (19434,93434);
 
+// CONTINUATION
+
+/* VARIABLES 1.0 */
+
  
 
 
