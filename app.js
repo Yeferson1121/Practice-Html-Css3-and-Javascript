@@ -49,7 +49,7 @@ false
 // Variables
 
 var username = "ryan";
-let username = "jeff"
+let user_Name = "jeff"
 const lastname = "carter"
 
 
@@ -96,7 +96,7 @@ console.log (iguality);
 
 // Conditional
 
-if (Login == true) {
+if (login == true) {
     console.log ('Login correct');
 }
 else console.log ('Password wrong');
