@@ -174,6 +174,14 @@ add (19434,93434);
    NickName = prompt ('Enter name');
    Year = prompt ("Enter year");
    document.write (NickName + ' ' + Year);
+
+/* ARRAY 1.0 */
+
+// METHODS AND PROPIRTIES
+
+
+
+
   
 
 
