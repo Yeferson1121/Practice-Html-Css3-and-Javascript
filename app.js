@@ -1,4 +1,3 @@
-document.write ("Codice Practice on the console");
 
 // Data types
 
@@ -173,7 +172,8 @@ add (19434,93434);
  // Prompt with alert
   var NickName = "Kizaru_11";
    NickName = prompt ('Enter name');
-    alert (NickName);
+   Year = prompt ("Enter year");
+   document.write (NickName + ' ' + Year);
   
 
 
