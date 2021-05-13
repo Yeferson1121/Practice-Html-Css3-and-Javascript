@@ -178,7 +178,9 @@ add (19434,93434);
 /* ARRAY 1.0 */
 
 // METHODS AND PROPIRTIES
-
+ var friends = ["Carlos", "Cesar", "Alex"];
+        //Concatenation
+    document.write ("Do you have " + friends.length + " friends");    
 
 
 
