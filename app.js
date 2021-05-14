@@ -185,7 +185,8 @@ add (19434,93434);
      friends [friends.length] = "Luis";*/
       friends.push ("Luis", "Fernando", "Oscar"); 
       friends.pop();
-      document.write( friends.join(","));
+      var friends2 = friends.join (", ");
+      document.write( friends2 );
 
 
 
