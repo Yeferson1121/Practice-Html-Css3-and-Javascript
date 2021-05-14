@@ -179,8 +179,10 @@ add (19434,93434);
 
 // METHODS AND PROPIRTIES
  var friends = ["Carlos", "Cesar", "Alex"];
-        //Concatenation
-    document.write ("Do you have " + friends.length + " friends");    
+        //Concatenation 
+    // document.write ("Do you have " + friends.length + " friends");    
+    friends [friends.length] = "Fernando";
+    friends [friends.length] = "Luis";
 
 
 
