@@ -184,6 +184,7 @@ add (19434,93434);
     /*friends [friends.length] = "Fernando";
     friends [friends.length] = "Luis";*/
     friends.push ("Luis", "Fernando", "Oscar"); 
+    friends.pop();
 
 
 
