@@ -195,6 +195,20 @@ add (19434,93434);
         var organized = friends.sort();
         document.write( friends );
 
+// Conditional 1.0
+
+// TYPES OF CONDITIONAL
+
+// < menor que
+// > mayor que
+// <= menor o igual 
+// >= mayor o igual
+// == igual que
+// != distinto que 
+
+
+
+
 
 
   
