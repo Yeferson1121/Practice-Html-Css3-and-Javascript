@@ -23,6 +23,24 @@ false
 
 // Array
 
+// METHODS AND PROPIRTIES
+var friends = ["Carlos", "Cesar", "Alex"];
+//Concatenation 
+
+// document.write ("Do you have " + friends.length + " friends");
+
+/*friends [friends.length] = "Fernando";
+
+friends [friends.length] = "Luis";*/
+
+friends.push ("Luis", "Fernando", "Oscar"); 
+friends.pop();
+
+//var friends2 = friends.join (", ");
+
+var organized = friends.sort();
+document.write( friends );
+
 ['joe', 'ryan', 'scoot'];
 [1, 2, 3];
 [true, false, true, false];
@@ -94,6 +112,15 @@ console.log (iguality);
 
 
 // Conditional
+
+// TYPES OF CONDITIONAL
+
+// < smaller than
+// > greater than
+// <= less than or equal
+// >= greater than or equal
+// == equal than (like)
+// != different than
 
 if (login == true) {
     console.log ('Login correct');
@@ -177,34 +204,10 @@ add (19434,93434);
 
 /* ARRAY 1.0 */
 
-// METHODS AND PROPIRTIES
- var friends = ["Carlos", "Cesar", "Alex"];
-        //Concatenation 
 
-     // document.write ("Do you have " + friends.length + " friends");
 
-     /*friends [friends.length] = "Fernando";
 
-     friends [friends.length] = "Luis";*/
 
-      friends.push ("Luis", "Fernando", "Oscar"); 
-      friends.pop();
-
-       //var friends2 = friends.join (", ");
-       
-        var organized = friends.sort();
-        document.write( friends );
-
-// Conditional 1.0
-
-// TYPES OF CONDITIONAL
-
-// < smaller than
-// > greater than
-// <= less than or equal
-// >= greater than or equal
-// == equal than (like)
-// != different than
 
 
 
