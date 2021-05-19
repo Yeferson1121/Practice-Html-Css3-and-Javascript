@@ -199,12 +199,12 @@ add (19434,93434);
 
 // TYPES OF CONDITIONAL
 
-// < menor que
-// > mayor que
-// <= menor o igual 
-// >= mayor o igual
-// == igual que
-// != distinto que 
+// < smaller than
+// > greater than
+// <= less than or equal
+// >= greater than or equal
+// == equal than (like)
+// != different than
 
 
 
