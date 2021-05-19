@@ -65,6 +65,12 @@ document.write( friends );
 
 // Variables
 
+// Prompt with alert
+var NickName = "Kizaru_11";
+NickName = prompt ('Enter name');
+Year = prompt ("Enter year");
+document.write (NickName + ' ' + Year);
+
 var username = "ryan";
 let user_Name = "jeff"
 const lastname = "carter"
@@ -192,17 +198,10 @@ function add (n1, n2) {
 add (3,4);
 add (19434,93434);
 
-// CONTINUATION
 
-/* VARIABLES 1.0 */
+ 
 
- // Prompt with alert
-  var NickName = "Kizaru_11";
-   NickName = prompt ('Enter name');
-   Year = prompt ("Enter year");
-   document.write (NickName + ' ' + Year);
 
-/* ARRAY 1.0 */
 
 
 
