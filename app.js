@@ -84,6 +84,16 @@ alert("Hola " + nombre);
 
 // Carriers - Operators
 
+// All the operators
+
+// + Sum
+// - Subtraction
+// * Multiplication
+/* / Division */
+// % Rest
+// ** exponentiation
+
+
 let numberOne = 70;
 let numberTwo = 80;
 
