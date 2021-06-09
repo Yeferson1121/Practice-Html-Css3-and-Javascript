@@ -75,6 +75,12 @@ var username = "ryan";
 let user_Name = "jeff"
 const lastname = "carter"
 
+// Example from Variable with functions (alert and prompt)
+
+let nombre = prompt("tell me your name");
+
+alert("Hola " + nombre);
+
 
 // Carriers - Operators
 
