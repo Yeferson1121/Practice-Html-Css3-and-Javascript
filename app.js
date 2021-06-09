@@ -92,8 +92,9 @@ alert("Hola " + nombre);
 // * Multiplication
 /* / Division */
 // % Rest
-// ** exponentiation
-
+// ** Exponentiation
+// -- Decrement
+// ++ Increment
 
 let numberOne = 70;
 let numberTwo = 80;
