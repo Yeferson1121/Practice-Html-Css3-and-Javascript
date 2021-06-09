@@ -86,6 +86,7 @@ alert("Hola " + nombre);
 
 // All the operators
 
+// = Assignment
 // + Sum
 // - Subtraction
 // * Multiplication
