@@ -25,3 +25,8 @@ p {
 }
 
 /* Metodology Bem */
+
+.contact-form__input--active{
+    color: blueviolet;
+}
+
