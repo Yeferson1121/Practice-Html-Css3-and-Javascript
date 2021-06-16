@@ -17,3 +17,9 @@ h1 {
 #modified {
     color: brown;
 }
+
+/* Importan */
+
+p {
+    color: grey !important;
+}
