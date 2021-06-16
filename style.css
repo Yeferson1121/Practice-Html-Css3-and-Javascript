@@ -3,3 +3,12 @@
 h1 {
     color: green;
 }
+/*Class,attributes and pseudo-class*/
+
+[proof="Xd"]{
+    color: blue;
+}
+
+.XS {
+    color: black;
+}
