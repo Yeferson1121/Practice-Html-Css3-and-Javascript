@@ -39,7 +39,7 @@ friends.pop();
 //var friends2 = friends.join (", ");
 
 var organized = friends.sort();
-document.write( friends );
+console.log( friends );
 
 ['joe', 'ryan', 'scoot'];
 [1, 2, 3];
@@ -69,7 +69,7 @@ document.write( friends );
 var NickName = "Kizaru_11";
 NickName = prompt ('Enter name');
 Year = prompt ("Enter year");
-document.write (NickName + ' ' + Year);
+console.log(NickName + ' ' + Year);
 
 var username = "ryan";
 let user_Name = "jeff"
